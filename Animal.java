@@ -24,7 +24,7 @@ public class Animal {
             this.numberOfLegs = noOfLegs;
         }
         void showAllData() {
-            System.out.println("Название животного:"+name+", травоядное: " + vegetarian + ", питается: " + eats + ",количество конечностей: " + numberOfLegs);
+            System.out.println("Название животного или не кота:"+name+", травоядное: " + vegetarian + ", питается: " + eats + ",количество конечностей: " + numberOfLegs);
         }}
 
 
