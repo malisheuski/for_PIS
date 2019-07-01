@@ -3,5 +3,5 @@ class SumDemo {
         Summation s1 = new Summation(5);
         Summation s2 = new Summation(s1);
         System.out.println("sl.sum: " + s1.sum);
-        System.out.println("s2.suFm: " + s2.sum);
+        System.out.println("s2.suF5555m: " + s2.sum);
     }}
